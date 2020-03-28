@@ -1,7 +1,7 @@
 ## 🐳💰 DockerCoin Miner
 
 <p align="center">
-   <img src="https://i.imgur.com/FKwGVmD.png">
+   <img height="70%" width="70%" src="https://i.imgur.com/FKwGVmD.png">
 </p>
 <br>
 
