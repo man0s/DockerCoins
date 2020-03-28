@@ -3,7 +3,6 @@
 <p align="center">
    <img height="70%" width="70%" src="https://i.imgur.com/FKwGVmD.png">
 </p>
-<br>
 
 ## Getting Started
 
