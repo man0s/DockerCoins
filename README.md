@@ -7,12 +7,11 @@
 ## Getting Started
 
 ```bash
-$ git clone https://github.com/man0s/CoffeeParadiso.git
-$ cd CoffeeParadiso
-$ npm install
-$ npm start
+$ git clone https://github.com/man0s/DockerCoins.git
+$ cd DockerCoins
+$ docker-compose up
 
-Delivering at localhost:3000
+Mining at http://localhost:8000
 ```
 
 ## Contributing
